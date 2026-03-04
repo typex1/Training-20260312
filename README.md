@@ -2,6 +2,6 @@
 
 M1
 ```
-Ich brauche Python Beispielcode der mir eine Datenbankverbindung herstellt zu einer MySQL Datenbank, Tabellenname
-"Customers".
+Ich brauche Python Beispielcode der mir eine Datenbankverbindung herstellt zu einer MySQL
+Datenbank, Tabellenname "Customers".
 ```
