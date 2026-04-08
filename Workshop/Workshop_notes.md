@@ -223,3 +223,28 @@ Gestalten Sie die Benutzeroberfläche meiner To-Do-Anwendung vollständig neu, m
 
 Behalten Sie alle bestehenden Funktionalitäten unverändert bei.
 ```
+
+# Lab 6: Konfigurieren eines AWS MCP Servers
+
+Referenz: https://catalog.us-east-1.prod.workshops.aws/workshops/c485498c-eb35-4d8f-9412-26f9717ad365/en-US/mcp-integration/lab-configure-mcp
+
+Test Prompt nach AWS Documentation MCP Server Installation:
+```
+Was sind die aktuellsten Best Practices für die Absicherung eines S3-Buckets?
+```
+
+# Lab 7: Plan AWS Deployment
+
+Beispiel Prompt (falls AWS Account zur Verfügung steht):
+```
+Ich habe eine Task-Management-Anwendung mit einem React-Frontend, einem Node.js-Backend und einer
+SQL-Datenbank erstellt. Welche AWS-Dienste würden Sie für die Bereitstellung dieser Anwendung empfehlen?
+Berücksichtigen Sie dabei einen serverless Ansatz.“
+```
+
+# Lab 8: Kiro Powers
+
+Test Prompt nach Installation der Power:
+```
+Hilf mir dabei, eine AWS-Architektur nach dem Well-Architected Framework für dieses Projekt zu erstellen.
+```
