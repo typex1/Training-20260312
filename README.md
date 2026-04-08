@@ -1,15 +1,12 @@
-# Training-20260312
+# Training-20260409
 
-Prompt Beispiele:
+Prompt Beispiele für Kiro-CLI oder Kiro IDE (Vibe Coding):
 
 ```
-Ich möchte ein Buch schreiben über Ausdauer Training mit dem Rennrad, speziell für Leute, die
-nicht sehr viel Zeit haben und daher effizient Ausdauer aufbauen wollen.
+Wieviel Platz ist noch auf meiner Festplatte?
 ```
 ```
-Da die Anwendungsbereiche, in denen du mir helfen kannst so groß sind, kannst du auch
-Ausschluss-Bereiche nennen, also solche Vorhaben, bei denen du nicht helfen kannst oder nicht
-helfen willst?
+Kannst du mir helfen, git und Node auf meinem Rechner zu installieren?
 ```
 ```
 Ich habe im Downloads Ordner die Datei Controlling_Excel_Datenanalyse_v2.xlsx. Erstelle
@@ -23,6 +20,17 @@ wenn die Abweichung über 10% liegt, ansonsten 'Im Plan'."
 * Datenbereinigung: "Extrahiere den Ländercode (DE, US, FR) aus der Spalte Kostenstelle in eine
 eigene Spalte namens 'Region'."
 ```
+
+```
+Ich möchte ein Buch schreiben über Ausdauer Training mit dem Rennrad, speziell für Leute, die
+nicht sehr viel Zeit haben und daher effizient Ausdauer aufbauen wollen.
+```
+```
+Da die Anwendungsbereiche, in denen du mir helfen kannst so groß sind, kannst du auch
+Ausschluss-Bereiche nennen, also solche Vorhaben, bei denen du nicht helfen kannst oder nicht
+helfen willst?
+```
+
 ```
 Ich brauche Beispielcode, der mir eine PDF Datei in .docx verwandelt.
 ```
