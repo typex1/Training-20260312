@@ -20,7 +20,11 @@ wenn die Abweichung über 10% liegt, ansonsten 'Im Plan'."
 * Datenbereinigung: "Extrahiere den Ländercode (DE, US, FR) aus der Spalte Kostenstelle in eine
 eigene Spalte namens 'Region'."
 ```
-
+```
+Ich möchte gerne lernen, mit Kiro zu arbeiten. Da ich noch nach einem guten Anwendungsfall suche,
+stell mir ein paar Fragen, damit wir gemeinsam herausfinden können, welcher Anwendungsfall
+spannend wäre für ein erstes Kiro Projekt.
+```
 ```
 Ich möchte ein Buch schreiben über Ausdauer Training mit dem Rennrad, speziell für Leute, die
 nicht sehr viel Zeit haben und daher effizient Ausdauer aufbauen wollen.
