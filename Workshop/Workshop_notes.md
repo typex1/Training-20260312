@@ -193,3 +193,33 @@ Barrierefreiheit (Accessibility)
     Fokus-Indikatoren müssen sichtbar sein (AWS Blue Outline verwenden)
 ```
 
+
+# Lab 5: Importieren und Nutzen von Agent Skills (Fähigkeiten)
+
+Referenz: https://catalog.us-east-1.prod.workshops.aws/workshops/c485498c-eb35-4d8f-9412-26f9717ad365/en-US/agent-skills/lab-import-skills
+
+URL zum Herunterladen und des genannten Anthropic Skills, übersetzt ins Deutsche:
+```
+https://github.com/anthropics/skills/blob/main/skills/frontend-design/SKILL.md
+```
+
+Deutsche Übersetzung des Prompts zur Änderung unserer Benutzeroberfläche:
+```
+Gestalten Sie die Benutzeroberfläche meiner To-Do-Anwendung vollständig neu, mit einem modernen und professionellen Look. Implementieren Sie:
+
+    Eine anspruchsvolle Farbpalette mit dunklen Tönen und lebendigen Akzenten
+
+    Hierarchische Typografie mit modernen Schriftarten
+
+    Karten mit weichen Schatten und abgerundeten Ecken für jede Aufgabe
+
+    Dezente Übergangsanimationen bei der Interaktion mit Elementen
+
+    Visuelle Prioritätsindikatoren mit eindeutigen Farben und Icons
+
+    Responsives Layout mit einem modernen Grid
+
+    Eine elegante Navigations-Sidebar mit Icons
+
+Behalten Sie alle bestehenden Funktionalitäten unverändert bei.
+```
