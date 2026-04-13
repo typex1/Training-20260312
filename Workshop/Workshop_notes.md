@@ -57,7 +57,7 @@ Runtime (Laufzeitumgebung)
 
 Verwende Bun als Runtime und Paketmanager für das gesamte Projekt. Nutze das integrierte bun:sqlite für die lokale Datenspeicherung, um ohne einen externen Datenbankserver auszukommen.
 
-Bun sollte von dieser Registry installieren: https://bahnhub.tech.rz.db.de/artifactory/api/npm/npm-remotezu
+Bun sollte von dieser Registry installieren: https://bahnhub.tech.rz.db.de/artifactory/api/npm/npm-remote
 
 ```
 
