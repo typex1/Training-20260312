@@ -42,6 +42,7 @@ Ich brauche Beispielcode, der mir eine PDF Datei in .docx verwandelt.
 ### Kiro resources:
 
 * Changelog: https://kiro.dev/changelog/page/ (contains several pages)
+* Kiro Community hub: https://kirohub.dev/
 * Kiro Github: https://github.com/kirodotdev (very active)
 * Kiro Discord: https://discord.com/invite/kirodotdev (very active)
 * Kiro X: https://x.com/kirodotdev (very active)
