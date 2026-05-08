@@ -116,12 +116,12 @@ Add drag and drop functionality to the task cards on the Kanban dashboard to cha
 Prompt, Übersetzt ins Deutsche:
 
 ```
-Erstelle einen Hook, der ausgelöst wird, wenn ich TypeScript- oder TSX-Dateien im To-Do-Projekt speichere. Er soll Codemuster und eine korrekte Fehlerbehandlung prüfen sowie Verbesserungsvorschläge machen. Verwende das fileEdited-Event mit Patterns für *.ts- und *.tsx-Dateien.
+Erstelle einen Hook, der ausgelöst wird, wenn ich TypeScript- oder TSX-Dateien im Projekt speichere. Er soll Codemuster und eine korrekte Fehlerbehandlung prüfen sowie Verbesserungsvorschläge machen. Verwende das fileEdited-Event mit Patterns für *.ts- und *.tsx-Dateien.
 ```
 
 Original Prompt:
 
-Create a hook that triggers when I save TypeScript or TSX files in the To-Do project. It should check code patterns, proper error handling, and suggest improvements. Use the fileEdited event with patterns for *.ts and *.tsx files.
+Create a hook that triggers when I save TypeScript or TSX files in my project. It should check code patterns, proper error handling, and suggest improvements. Use the fileEdited event with patterns for *.ts and *.tsx files.
 
 Alternativ ist auch die automatische, im weiteren Verlauf immer aktualisierte Erstellung von Dokumentation.
 
